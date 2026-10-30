@@ -64,7 +64,7 @@ function playTrack(track) {
   <div class="app-shell">
     <aside class="sidebar">
       <a class="brand" href="#" aria-label="Accueil Spotify">
-        <span class="brand-mark">●</span>
+        <span class="brand-mark"><img src="/spot.png" alt="Spotify" /></span>
         <span>Spotify</span>
       </a>
 
